@@ -12,6 +12,8 @@ _Estimated reading time: 5 minutes_
 ## Before you start
 
 * Some text from Uwe
+  * uwe 01
+  * uwe 02
 * You will need a client ID, issuer, and metadata path provided by your third-party OAuth server.
 * The authorization server must issue signed JWT access tokens.
 * The authorization server must issue tokens with `Amplify Central` in the `aud` claim.
